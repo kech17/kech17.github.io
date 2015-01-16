@@ -1,0 +1,80 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/index\.scss}line{font-family:\000033}}
+.header {
+  background: url("../images/home-header.png") center;
+  height: 670px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/index\.scss}line{font-family:\000036}}
+  .header .header-content {
+    padding-top: 75px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/index\.scss}line{font-family:\0000311}}
+.row-title {
+  text-align: center; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/index\.scss}line{font-family:\0000313}}
+  .row-title h2 {
+    font-weight: bold;
+    font-size: 2.3em;
+    letter-spacing: 4px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/index\.scss}line{font-family:\0000320}}
+.title-caption {
+  padding: 15px 0;
+  max-width: 60%;
+  margin: 0 auto; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/index\.scss}line{font-family:\0000324}}
+  .title-caption p {
+    font-size: 1em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/index\.scss}line{font-family:\0000329}}
+.about-me {
+  background-color: #ffffff;
+  position: relative; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/index\.scss}line{font-family:\0000333}}
+  .about-me .main-icons {
+    text-align: center;
+    max-width: 140px;
+    padding-bottom: 15px;
+    margin: 0 auto; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/index\.scss}line{font-family:\0000339}}
+  .about-me p {
+    text-align: center;
+    font-family: "Open Sans", sans-serif; }
+    @media screen and (max-width: 1024px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/index\.scss}line{font-family:\0000339}}
+      .about-me p {
+        max-width: 350px;
+        margin-right: auto;
+        margin-left: auto; } }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/index\.scss}line{font-family:\0000348}}
+  .about-me .icon-title {
+    padding: 15px 0;
+    font-weight: bold;
+    font-size: 1.5em; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/index\.scss}line{font-family:\0000353}}
+  .about-me .icon-desc {
+    font-size: 1em;
+    color: #727272; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/index\.scss}line{font-family:\0000359}}
+.projects {
+  background-color: #f5f5f5;
+  position: relative;
+  text-align: center;
+  padding-bottom: 0px !important; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/index\.scss}line{font-family:\0000364}}
+  .projects p {
+    text-align: center; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/index\.scss}line{font-family:\0000367}}
+  .projects img {
+    border-radius: 3px;
+    max-width: 449px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/index\.scss}line{font-family:\0000371}}
+  .projects figure {
+    max-height: 287px;
+    overflow: hidden; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/index\.scss}line{font-family:\0000378}}
+footer {
+  position: relative;
+  background-color: #ffffff; }
+
+/*# sourceMappingURL=index.css.map */

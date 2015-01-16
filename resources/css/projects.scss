@@ -1,0 +1,29 @@
+@import "variables";
+
+.header {
+	background: url('../images/home-header.png') ;
+	height: 345px;
+	.header-content {
+		padding-top: 35px;
+	}
+}
+.projects {
+	background-color: $grey;
+	position: relative;
+	text-align: center;
+	padding-bottom: 0px !important;
+	p {
+		text-align: center;
+	}
+	img {
+		border-radius: 3px;
+		max-width: 449px;
+	}
+	figure {
+		max-height: 287px;
+		overflow: hidden;
+	}
+	.row {
+		display: inline !important;
+	}
+}

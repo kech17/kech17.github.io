@@ -1,0 +1,81 @@
+@import "variables";
+
+.header {
+	background: url('../images/home-header.png') center;
+	height:670px;
+	.header-content {
+		padding-top: 75px;
+	}
+}
+
+.row-title {
+	text-align:  center;
+	h2 {
+		font-weight: bold;
+		font-size: 2.3em;
+		letter-spacing: 4px;
+	}
+}
+
+.title-caption {
+	padding: 15px 0;
+	max-width: 60%;
+	margin: 0 auto;
+	p {
+		font-size: 1em;
+	}
+}
+
+.about-me {
+	background-color: $white;
+	position: relative;
+	
+	.main-icons {
+		text-align: center;
+		max-width: 140px;
+		padding-bottom: 15px;
+		margin: 0 auto;
+	}
+	p {
+		text-align: center;
+		font-family: $open;
+		@media screen and (max-width: 1024px) {
+			max-width: 350px;
+			margin-right: auto;
+			margin-left: auto;
+		}
+	}
+	.icon-title {
+		padding: 15px 0;
+		font-weight: bold;
+		font-size: 1.5em;
+	}
+	.icon-desc {
+		font-size: 1em;
+		color: $darkgrey;
+	}
+}
+
+.projects {
+	background-color: $grey;
+	position: relative;
+	text-align: center;
+	padding-bottom: 0px !important;
+	p {
+		text-align: center;
+	}
+	img {
+		border-radius: 3px;
+		max-width: 449px;
+	}
+	figure {
+		max-height: 287px;
+		overflow: hidden;
+	}
+}
+
+
+footer {
+	position: relative;
+	background-color: $white;
+}

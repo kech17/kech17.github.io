@@ -1,0 +1,63 @@
+@import "variables";
+
+.header {
+	background: url('../images/home-header.png') ;
+	height: 345px;
+	.header-content {
+		padding-top: 35px;
+	}
+}
+.info {
+	position: relative;
+	background-color: $grey;
+	.project-desc {
+		.project-title {
+			color: $dark;
+			font-family: $open;
+			font-size: 1.3em;
+		}
+		.project-caption {
+			color: $darkgrey;
+			font-family: $open;
+			font-size: 1em;
+			font-weight: 300 !important;
+		}
+	}
+	.project-img {
+		text-align: center;
+		img {
+			border-radius: 5px;
+		}
+	}
+	.square {
+		overflow: hidden;
+		@media screen and (max-width: 1024px) {
+			margin-bottom: 40px;
+		}
+	}
+}
+.skills-row {
+	@media screen and (min-width: 1024px) {
+		padding-top: 60px;
+	}
+	.small-2 {
+		text-align: center;
+	}
+	i {
+		font-size: 3em;
+		color: $green;
+	}
+	.card-title {
+		color: $dark;
+		font-family: $open;
+		font-size: 1.3em;
+	}
+	.card-desc {
+		color: $darkgrey;
+		font-family: $open;
+		font-size: 1em;
+	}
+}
+.custom-button2{
+	border: 2px $white solid !important !important;
+}
