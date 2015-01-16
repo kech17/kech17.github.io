@@ -1,0 +1,118 @@
+<!doctype html>
+<!--[if IE 9]><html class="lt-ie10" lang="en" > <![endif]-->
+<html class="no-js" lang="en" data-useragent="Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)">
+<head>
+	<meta charset="utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+	<title>Jung Chang - Contact</title>
+	<link rel="icon" type="image/x-icon" href="resources/images/favicon.ico">
+	<!--Page Resources-->
+	<link rel="stylesheet" href="resources/css/contact.css"/>
+	<link rel="stylesheet" href="resources/css/common.css"/>
+
+	<!-- Foundation -->
+	<link rel="stylesheet" href="vendors/Foundation/css/foundation.min.css"/>
+	<script src="vendors/Foundation/js/vendor/modernizr.js"></script>
+
+	<!-- Google Fonts -->
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+	<link rel='stylesheet' type='text/css' href='http://fonts.googleapis.com/css?family=Montserrat'>
+
+	<!-- jQuery -->
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+	<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css"/>
+	<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script>
+
+	<!-- Sweet Alert -->
+	<script src='vendors/SweetAlert/sweet-alert.min.js'></script>
+	<link rel='stylesheet' href='vendors/SweetAlert/sweet-alert.css'>
+
+	<!-- Responsive Nav -->
+	<link rel="stylesheet" href="vendors/SlickNav/slicknav.css" />
+	<script src="vendors/SlickNav/jquery.slicknav.min.js"></script>
+
+	<script src='resources/js/contact.js'></script>
+	<script src='resources/js/common.js'></script>
+</head>
+<body>
+	<div class='slicknav'></div>
+	<div class='sticky-nav'>
+		<nav class='main-menu'>
+			<ul id='menu' class='nav-items'>
+				<li>
+					<a href='index.html'>HOME</a>
+				</li>
+				<li>
+					<a href='projects.html'>PROJECTS</a>
+				</li>
+				<li>
+					<a class='logo' href='index.html'><img src='resources/images/logo-square.png'/></a>
+				</li>
+				<li>
+					<a class='current' href='contact.html'>CONTACT</a>
+				</li>
+				<li>
+					<a href='#'>RESUME</a>
+				</li>
+			</ul>
+		</nav>
+	</div>
+	<div class='header'>
+		<div class='header-content'>
+			<div class='header-text'>
+				<h1 class='title title-medium'>CONTACT ME</h1>
+				<h3 class='under title title-small'>ASK ME ANYTHING!</h3>
+			</div>
+		</div>
+	</div>
+	<div class='rows forms'>
+		<form id='contactForm' name='contactForm'>
+			<div class="row">
+				<div class="small-10 small-centered large-6 large-uncentered columns">
+					<label class='required'>NAME <span>*</span>
+						<input class='input' id='name' name='name' type="text" maxlength="50"/>
+					</label>
+					<label class='required'>EMAIL ADDRESS <span>*</span>
+						<input class='input' id='email' name='_replyto email' type="text" maxlength="50"/>
+					</label>
+					<label>PHONE
+						<input id='phone' name='phone' type="tel" maxlength="25"/>
+					</label>
+				</div>
+				<div class="small-10 small-centered large-6 large-uncentered columns">
+					<label class='required'>MESSAGE <span>*</span>
+						<textarea class='input' id='message' name='message' maxlength="300"></textarea>
+						<input type="text" name="_gotcha" style="display:none" />
+					</label>
+				</div>
+			</div>
+		</form>
+		<div class='row'>
+			<div class='submit large-4 large-centered columns'>
+				<a onclick='validateForm()' class='contact-button custom-button2'><h6>Submit</h6></a>
+			</div>
+		</div>
+	</div>
+<footer>
+	<div class='footer-nav row'>
+		<ul class='footer-nav-items'>
+			<li>
+				<a href='index.html'>HOME</a>
+			</li>
+			<li>
+				<a href='projects.html'>PROJECTS</a>
+			</li>
+			<li>
+				<a class='current' href='contact.html'>CONTACT</a>
+			</li>
+			<li>
+				<a href='#'>RESUME</a>
+			</li>
+		</ul>
+	</div>
+	<div class='copyright'>
+		<h5>© 2015 Jung Chang. All Rights Reserved.</h5>
+	</div>
+</footer>
+</body>
+</html>
