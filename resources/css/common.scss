@@ -132,6 +132,12 @@ footer {
 		margin-top: -12px;
 	}
 }
+.title-caption {
+	p {
+		font-family: $open;
+		color: $darkgrey;
+	}
+}
 .header {
 	background-size: cover;
 	width: 100%;
