@@ -1,0 +1,75 @@
+@import "variables";
+
+.header {
+	background: url('../images/home-header.png') ;
+	height: 345px;
+	.header-content {
+		padding-top: 35px;
+	}
+}
+
+.resume, .experience, .download, .skills {
+	position: relative;
+	background: $grey;
+}
+.exp {
+	margin-bottom: 30px !important;
+}
+.download {
+	margin-top: 20px;
+	text-align: center;
+	h6 {
+		margin: 0 !important;
+	}
+}
+.centerText{
+	@media screen and (max-width: 1024px) {
+		text-align: center;
+	}
+}
+.row-title {
+	@extend .centerText;
+	font-family: $mont;
+	color: $dark;
+	font-size: 1.5em;
+}
+
+.date {
+	@extend .centerText;
+	font-family: $mont;
+	color: $darkgrey;
+	font-size: 1.3em;
+}
+.title {
+	@extend .centerText;
+	@extend .centerText;
+	font-family: $mont;
+	color: $dark;
+	font-size: 1.4em;
+}
+.caption {
+	@extend .centerText;
+	font-family: $mont;
+	color: $darkgrey;
+	font-size: 1.3em;
+	margin-bottom: 15px !important;
+}
+ul {
+	line-height: 2 !important;
+}
+p {
+	margin-bottom: 0 !important;
+}
+.desc {
+	@extend .centerText;
+	font-family: $open;
+	color: $darkgrey;
+	font-size: 1em;
+}
+.skills {
+	margin-bottom: 15px !important;
+}
+.first {
+	border-top: 2px solid $darkgrey;
+	padding-top: 40px !important;
+}

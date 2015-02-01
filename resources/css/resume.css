@@ -1,0 +1,79 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/resume\.scss}line{font-family:\000033}}
+.header {
+  background: url("../images/home-header.png");
+  height: 345px; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/resume\.scss}line{font-family:\000036}}
+  .header .header-content {
+    padding-top: 35px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/resume\.scss}line{font-family:\0000311}}
+.resume, .experience, .download, .skills {
+  position: relative;
+  background: #f5f5f5; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/resume\.scss}line{font-family:\0000315}}
+.exp {
+  margin-bottom: 30px !important; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/resume\.scss}line{font-family:\0000318}}
+.download {
+  margin-top: 20px;
+  text-align: center; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/resume\.scss}line{font-family:\0000321}}
+  .download h6 {
+    margin: 0 !important; }
+
+@media screen and (max-width: 1024px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/resume\.scss}line{font-family:\0000325}}
+  .centerText, .row-title, .date, .title, .caption, .desc {
+    text-align: center; } }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/resume\.scss}line{font-family:\0000330}}
+.row-title {
+  font-family: "Montserrat", sans-serif;
+  color: #222222;
+  font-size: 1.5em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/resume\.scss}line{font-family:\0000337}}
+.date {
+  font-family: "Montserrat", sans-serif;
+  color: #727272;
+  font-size: 1.3em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/resume\.scss}line{font-family:\0000343}}
+.title {
+  font-family: "Montserrat", sans-serif;
+  color: #222222;
+  font-size: 1.4em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/resume\.scss}line{font-family:\0000350}}
+.caption {
+  font-family: "Montserrat", sans-serif;
+  color: #727272;
+  font-size: 1.3em;
+  margin-bottom: 15px !important; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/resume\.scss}line{font-family:\0000357}}
+ul {
+  line-height: 2 !important; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/resume\.scss}line{font-family:\0000360}}
+p {
+  margin-bottom: 0 !important; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/resume\.scss}line{font-family:\0000363}}
+.desc {
+  font-family: "Open Sans", sans-serif;
+  color: #727272;
+  font-size: 1em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/resume\.scss}line{font-family:\0000369}}
+.skills {
+  margin-bottom: 15px !important; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/resume\.scss}line{font-family:\0000372}}
+.first {
+  border-top: 2px solid #727272;
+  padding-top: 40px !important; }
+
+/*# sourceMappingURL=resume.css.map */
