@@ -68,10 +68,16 @@ p {
   font-size: 1em; }
 
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/resume\.scss}line{font-family:\0000369}}
+.desc2 {
+  font-family: "Open Sans", sans-serif;
+  color: #727272;
+  font-size: 1em; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/resume\.scss}line{font-family:\0000374}}
 .skills {
   margin-bottom: 15px !important; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/resume\.scss}line{font-family:\0000372}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/resume\.scss}line{font-family:\0000377}}
 .first {
   border-top: 2px solid #727272;
   padding-top: 40px !important; }
