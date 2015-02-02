@@ -183,6 +183,9 @@ footer {
 	-webkit-box-shadow: 1px 1px 1px $darkgrey !important;
 	box-shadow: 1px 1px 1px $darkgrey !important;
 }
+.slicknav {
+	box-shadow: 1px 1px 1px $darkgrey;
+}
 .slicknav_menu {
 	display:none;
 	background: $white !important;
