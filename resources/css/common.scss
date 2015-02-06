@@ -3,6 +3,10 @@
 .sweet-alert {
 	margin-left: -235px !important;
 }
+body {
+	max-width: 100% !important;
+	overflow-x:hidden !important;
+}
 .pdf {
 	width: 100%;
 	height: 700px;
@@ -98,7 +102,7 @@ h1, h2, h3, h4, h5, h6 {
 footer {
 	position: relative !important;
 	padding: 15px 0;
-	z-index: 1;
+	background-color: $white;
 	h5 {
 		color: $darkgrey;
 		font-size: 0.9em;
@@ -143,6 +147,7 @@ footer {
 		color: $darkgrey;
 	}
 }
+
 .header {
 	z-index: -1;
 	background-size: cover;
@@ -151,7 +156,9 @@ footer {
 	position: relative;
 	.header-content {
 		text-align: center;
-		position: fixed;
+		@media screen and (min-width:400px) {
+			position: fixed;
+		}
 		width:100%;
 	}
 	.header-text {
