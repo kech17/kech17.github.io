@@ -1,6 +1,6 @@
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/projects\.scss}line{font-family:\000033}}
 .header {
-  background: url("../images/home-header.png");
+  background: url("../images/home-header.png") center;
   height: 345px; }
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/projects\.scss}line{font-family:\000036}}
   .header .header-content {

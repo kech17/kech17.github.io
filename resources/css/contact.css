@@ -4,7 +4,7 @@ textarea {
 
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/contact\.scss}line{font-family:\000037}}
 .header {
-  background: url("../images/home-header.png");
+  background: url("../images/home-header.png") center;
   height: 345px; }
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/contact\.scss}line{font-family:\0000310}}
   .header .header-content {
