@@ -2,55 +2,55 @@
 .sweet-alert {
   margin-left: -235px !important; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\000036}}
-body {
-  max-width: 100% !important;
-  overflow-x: hidden !important; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\000037}}
+.row .row {
+  margin-left: 0 !important;
+  margin-right: 0 !important; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\0000310}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\0000311}}
 .pdf {
   width: 100%;
   height: 700px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\0000314}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\0000315}}
 .grid figcaption {
   background: #222222 !important;
   color: #ffffff;
   padding-bottom: 5px !important;
   height: 90px !important; }
   @media screen and (max-width: 480px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\0000314}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\0000315}}
     .grid figcaption {
       text-align: center;
       height: 60px !important; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\0000323}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\0000324}}
   .grid figcaption h4 {
     color: #ffffff;
     margin-bottom: 4px;
     font-size: 1.3rem; }
     @media screen and (max-width: 480px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\0000323}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\0000324}}
       .grid figcaption h4 {
         margin-top: -15px;
         margin-bottom: 0; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\0000332}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\0000333}}
   .grid figcaption span {
     color: #727272; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\0000336}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\0000337}}
 .rows {
   padding-top: 50px;
   padding-bottom: 50px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\0000340}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\0000341}}
 h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat", sans-serif !important; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\0000343}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\0000344}}
 .custom-button:not(.contact-button) {
   visibility: hidden; }
   @media screen and (min-width: 480px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\0000343}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\0000344}}
     .custom-button:not(.contact-button) {
       visibility: visible;
       display: inline-block;
@@ -62,12 +62,12 @@ h1, h2, h3, h4, h5, h6 {
       border-radius: 3px !important;
       padding: 8px 20px;
       transition: all 0.3s ease-in-out; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\0000355}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\0000356}}
       .custom-button:not(.contact-button):hover {
         background-color: #329e3d !important;
         border-color: #329e3d !important; } }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\0000363}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\0000364}}
 .custom-button2 {
   visibility: visible;
   display: inline-block;
@@ -79,15 +79,15 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 3px !important;
   padding: 8px 20px;
   transition: all 0.3s ease-in-out; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\0000374}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\0000375}}
   .custom-button2:hover {
     background-color: #329e3d !important;
     border-color: #329e3d !important; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\0000375}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\0000376}}
     .custom-button2:hover h6 {
       color: #ffffff !important; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\0000382}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\0000383}}
 .custom-button3 {
   visibility: visible;
   display: inline-block;
@@ -99,141 +99,141 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 3px !important;
   padding: 8px 20px;
   transition: all 0.3s ease-in-out; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\0000393}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\0000394}}
   .custom-button3:hover {
     background-color: #329e3d !important;
     border-color: #329e3d !important; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\0000394}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\0000395}}
     .custom-button3:hover h6 {
       color: #ffffff !important; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003102}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003103}}
 footer {
   position: relative !important;
   padding: 15px 0;
   background-color: #ffffff; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003106}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003107}}
   footer h5 {
     color: #727272;
     font-size: 0.9em;
     font-weight: 300;
     font-family: "Open Sans", sans-serif !important; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003114}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003115}}
 .sticky-nav, footer {
   width: 100%;
   text-align: center;
   position: fixed;
   top: 0;
   z-index: 3; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003120}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003121}}
   .sticky-nav ul, footer ul {
     padding-top: 30px;
     padding-bottom: 37px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003124}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003125}}
   .sticky-nav li, footer li {
     display: inline-block;
     padding-left: 30px;
     padding-right: 30px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003129}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003130}}
   .sticky-nav a:not(.logo), footer a:not(.logo) {
     color: #727272;
     font-family: "Open Sans", sans-serif;
     font-weight: bold; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003133}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003134}}
     .sticky-nav a:not(.logo):hover, footer a:not(.logo):hover {
       border-bottom: #329e3d 3px solid; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003139}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003140}}
   .sticky-nav img, footer img {
     max-height: 50px;
     margin-top: -12px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003145}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003146}}
 .title-caption p {
   font-family: "Open Sans", sans-serif;
   color: #727272; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003151}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003152}}
 .header {
   z-index: -1;
   background-size: cover;
   width: 100%;
   padding-top: 105px;
   position: relative; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003157}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003158}}
   .header .header-content {
     text-align: center;
     width: 100%; }
     @media screen and (min-width: 400px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003157}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003158}}
       .header .header-content {
         position: fixed; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003165}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003166}}
   .header .header-text .title {
     font-family: "Montserrat", sans-serif;
     letter-spacing: 4px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003169}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003170}}
   .header .header-text .title-large {
     font-size: 4em;
     padding: 20px 0; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003173}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003174}}
   .header .header-text .title-medium {
     font-size: 3em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003176}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003177}}
   .header .header-text .top {
     color: #727272;
     font-size: 1.4em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003180}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003181}}
   .header .header-text .under {
     color: #727272;
     font-size: 1.2em; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003186}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003187}}
 .current {
   color: #329e3d !important; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003189}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003190}}
 .shadow {
   -webkit-box-shadow: 1px 1px 1px #727272 !important;
   box-shadow: 1px 1px 1px #727272 !important; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003193}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003194}}
 .slicknav {
   box-shadow: 1px 1px 1px #727272; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003196}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003197}}
 .slicknav_menu {
   display: none;
   background: #ffffff !important;
   opacity: 0.95 !important;
   padding: 0px !important; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003201}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003202}}
   .slicknav_menu .slicknav_btn {
     background-color: transparent !important;
     font-size: 1.5em; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003205}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003206}}
   .slicknav_menu .slicknav_icon-bar {
     background-color: #222222 !important;
     -webkit-box-shadow: none !important;
     box-shadow: none !important; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003210}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003211}}
   .slicknav_menu img {
     max-height: 35px;
     margin: 6px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003215}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003216}}
 .slicknav_nav {
   text-align: center;
   border-top: #727272 solid 1px;
   background: #ebebeb !important; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003219}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003220}}
   .slicknav_nav a {
     margin: 0px !important;
     font-size: 1.1em;
     font-family: "Montserrat", sans-serif;
     color: #222222 !important;
     border-bottom: #727272 1px solid; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003225}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003226}}
     .slicknav_nav a:hover {
       background: #329e3d !important;
       webkit-border-radius: 0px !important;
@@ -241,42 +241,42 @@ footer {
       color: #ffffff !important; }
 
 @media screen and (max-width: 644px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003236}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003237}}
   .js #menu {
     display: none; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003239}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003240}}
   .logo {
     display: none !important; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003242}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003243}}
   .js .slicknav_menu {
     display: inline; } }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003246}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003247}}
 .contact-me {
   background: url("../images/home-contact.png") center;
   background-size: cover;
   position: relative; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003250}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003251}}
   .contact-me .large-centered {
     text-align: center; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003253}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003254}}
   .contact-me .contact-title {
     padding-top: 30px;
     padding-bottom: 40px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003256}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003257}}
     .contact-me .contact-title h3 {
       color: #ffffff !important; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003260}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003261}}
   .contact-me .contact-button {
     margin-bottom: 50px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003263}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003264}}
   .contact-me h6 {
     color: #ffffff;
     margin: 0;
     font-size: 0.9em; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003269}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003270}}
 .arrow {
   position: relative;
   display: block;
@@ -286,7 +286,7 @@ footer {
   background: url("../images/home-arrow.png") center 36px;
   background-size: cover;
   margin-top: -36px; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003278}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003279}}
   .arrow span {
     display: block;
     width: 74px;
@@ -295,7 +295,7 @@ footer {
     background-size: cover;
     opacity: 0;
     transition: all 0.3s ease-in-out; }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003286}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/common\.scss}line{font-family:\00003287}}
     .arrow span:hover {
       opacity: 1; }
 

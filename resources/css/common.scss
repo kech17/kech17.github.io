@@ -3,9 +3,10 @@
 .sweet-alert {
 	margin-left: -235px !important;
 }
-body {
-	max-width: 100% !important;
-	overflow-x:hidden !important;
+
+.row .row {
+	margin-left:0 !important;
+	margin-right:0 !important;
 }
 .pdf {
 	width: 100%;
