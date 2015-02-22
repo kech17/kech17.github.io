@@ -69,10 +69,13 @@
     max-width: 449px; }
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/index\.scss}line{font-family:\0000371}}
   .projects figure {
-    max-height: 287px;
+    max-height: 278px;
     overflow: hidden; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/index\.scss}line{font-family:\0000375}}
+  .projects .grid li {
+    width: 475px !important; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/index\.scss}line{font-family:\0000378}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/index\.scss}line{font-family:\0000381}}
 footer {
   position: relative;
   background-color: #ffffff; }

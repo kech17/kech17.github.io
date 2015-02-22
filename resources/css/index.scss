@@ -69,8 +69,11 @@
 		max-width: 449px;
 	}
 	figure {
-		max-height: 287px;
+		max-height: 278px;
 		overflow: hidden;
+	}
+	.grid li {
+		width: 475px !important;
 	}
 }
 
