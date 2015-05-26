@@ -72,10 +72,13 @@
     max-height: 278px;
     overflow: hidden; }
 @media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/index\.scss}line{font-family:\0000375}}
-  .projects .grid li {
-    width: 475px !important; }
+  .projects .grid {
+    display: inline-block; }
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/index\.scss}line{font-family:\0000377}}
+    .projects .grid li {
+      max-width: 475px; }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/index\.scss}line{font-family:\0000381}}
+@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/jungchangME\/kech17\.github\.io\/resources\/css\/index\.scss}line{font-family:\0000384}}
 footer {
   position: relative;
   background-color: #ffffff; }
